@@ -10,7 +10,6 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.18",
-    "add": "^2.0.6",
     "astro": "^5.17.2",
     "facehash": "^0.0.7",
     "react": "^19.2.4",
@@ -18,9 +17,6 @@
     "tailwindcss": "^4.1.18"
   },
   "devDependencies": {
-    "@astrojs/react": "^4.4.2",
-    "@astrojs/tailwind": "^6.0.2",
-    "@tailwindcss/postcss": "^4.1.18",
-    "autoprefixer": "^10.4.24"
+    "@astrojs/react": "^4.4.2"
   }
 }
